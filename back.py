@@ -8,7 +8,7 @@ import time
 from pushbullet import Pushbullet
 
 # Pushbullet Access Token (replace with your token)
-PUSHBULLET_TOKEN = 'o.TiXUIogDYjYLO73gX8sXMkdKdRIMDFfV'
+PUSHBULLET_TOKEN = 'NEW API token from pushbullet'
 pb = Pushbullet(PUSHBULLET_TOKEN)
 
 def send_push_alert():
